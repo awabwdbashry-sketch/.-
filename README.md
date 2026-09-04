@@ -77,7 +77,7 @@ index.html
 
 ## 👨‍💻 المطور
 
-**Awab Wd Bashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🎨 UI/UX Enthusiast  
@@ -164,7 +164,7 @@ The project was created as a frontend web development experience focused on:
 
 ## 👨‍💻 Developer
 
-**Awab Wd Bashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🎨 UI/UX Enthusiast  
